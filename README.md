@@ -36,16 +36,5 @@ A To-Do List app using java. User can create account, login, add tasks, change o
 ```
 
 ## Images
-
-* Login page
-
-![Login](home.PNG)
-
-* Register
-
-![Register](create_Account.PNG)
-
-* View and add Task
-
-![Register](Task.PNG)
-"# Farm Management System" 
+![image](https://github.com/user-attachments/assets/e8da3274-dd94-4701-858d-55082dc0f0d2)
+ 
